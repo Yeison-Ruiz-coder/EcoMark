@@ -1,0 +1,180 @@
+[
+    {
+        "id-cliente": 1,
+        "cliente": {
+            "nombre": "Ana López",
+            "email": "ana.lopez@gmail.com"
+        },
+        "fecha": "2025-09-25",
+        "productos": [
+            {
+                "nombre": "Leche Entera",
+                "cantidad": 2,
+                "precio_unitario": 3500
+            },
+            {
+                "nombre": "Leche de Almendra",
+                "cantidad": 1,
+                "precio_unitario": 8000
+            }
+        ],
+        "total": 15000
+    },
+    {
+        "id-cliente": 2,
+        "cliente": {
+            "nombre": "Carlos Méndez",
+            "email": "carmendez@gmail.com"
+        },
+        "fecha": "2025-09-24",
+        "productos": [
+            {
+                "nombre": "Teclado Mecánico RGB",
+                "cantidad": 1,
+                "precio_unitario": 150000
+            }
+        ],
+        "total": 150000
+    },
+    {
+        "id": 3,
+        "cliente": {
+            "nombre": "Laura Torres",
+            "telefono":"312078123"
+        },
+        "fecha": "2025-09-23",
+        "productos": [
+            {
+                "nombre": "Manzanas Verdes",
+                "cantidad": 3,
+                "precio_unitario": 2500
+            },
+            {
+                "nombre": "Bananas",
+                "cantidad": 5,
+                "precio_unitario": 1200
+            }
+        ],
+        "total": 11100
+    },
+    {
+        "id": 4,
+        "cliente": {
+            "nombre": "Ana López"
+        },
+        "fecha": "2025-09-22",
+        "productos": [
+            {
+                "nombre": "arroz",
+                "cantidad": 2,
+                "precio_unitario": 3000
+            }
+        ],
+        "total": 6000
+    },
+    {
+        "id": 5,
+        "cliente": {
+            "nombre": "Jorge Ramírez"
+        },
+        "fecha": "2025-09-21",
+        "productos": [
+            {
+                "nombre": "Carne de Rex",
+                "cantidad": 1,
+                "precio_unitario": 45000
+            },
+            {
+                "nombre": "Pechuga de Pollo",
+                "cantidad": 2,
+                "precio_unitario": 25000
+            }
+        ],
+        "total": 95000
+    },
+    {
+        "id": 6,
+        "cliente": {
+            "nombre": "María Fernanda"
+        },
+        "fecha": "2025-09-20",
+        "productos": [
+            {
+                "nombre": "choco crisp",
+                "cantidad": 2,
+                "precio_unitario": 12000
+            }
+        ],
+        "total": 24000
+    },
+    {
+        "id": 7,
+        "cliente": {
+            "nombre": "Luis Gómez"
+        },
+        "fecha": "2025-09-19",
+        "productos": [
+            {
+                "nombre": "Cereal Integral",
+                "cantidad": 1,
+                "precio_unitario": 10000
+            },
+            {
+                "nombre": "arroz",
+                "cantidad": 3,
+                "precio_unitario": 3000
+            }
+        ],
+        "total": 19000
+    },
+    {
+        "id": 8,
+        "cliente": {
+            "nombre": "Sofía Martínez"
+        },
+        "fecha": "2025-09-18",
+        "productos": [
+            {
+                "nombre": "Leche de Almendra",
+                "cantidad": 2,
+                "precio_unitario": 8000
+            }
+        ],
+        "total": 16000
+    },
+    {
+        "id": 9,
+        "cliente": {
+            "nombre": "Pedro Ruiz"
+        },
+        "fecha": "2025-09-17",
+        "productos": [
+            {
+                "nombre": "Bananas",
+                "cantidad": 7,
+                "precio_unitario": 1200
+            }
+        ],
+        "total": 8400
+    },
+    {
+        "id": 10,
+        "cliente": {
+            "nombre": "Kevin Alejandro"
+        },
+        "fecha": "2025-09-16",
+        "productos": [
+            {
+                "nombre": "choco crisp",
+                "cantidad": 1,
+                "precio_unitario": 12000
+            },
+            {
+                "nombre": "Cereal Integral",
+                "cantidad": 1,
+                "precio_unitario": 10000
+            }
+        ],
+        "total": 22000
+    }
+]

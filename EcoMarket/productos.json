@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "nombre": "Teclado Mecánico RGB",
+        "categoria": "Periféricos",
+        "precio": 150000,
+        "stock": 25,
+        "proveedor": {
+            "nit": "10",
+            "nombre": "Distribuciones Gamer S.A.S",
+            "pais": "Colombia",
+            "contacto": {
+                "telefono": "3101234567",
+                "email": "ventas@gamer.com",
+                "direccion": {
+                    "calle": "Calle 45 # 23-67",
+                    "ciudad": "Bogotá",
+                    "codigo_postal": "110111"
+                }
+            }
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Carne de Rex",
+        "categoria": "Carnes",
+        "precio": {
+            "peso": "1kg",
+            "valor": 45000
+        },
+        "proveedor": {
+            "nit": "11",
+            "nombre": "Carnes del Valle Ltda",
+            "pais": "Colombia",
+            "contacto": {
+                "telefono": "3207654321",
+                "direccion": "Calle 10 # 5-30"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Leche Entera",
+        "categoria": "Lácteos",
+        "precio": {
+            "volumen": "1L",
+            "valor": 3500
+        },
+        "iva": 100,
+        "proveedor": {
+            "nit": "12",
+            "nombre": "Lácteos La Gran Vía",
+            "municipio": "Cali",
+            "contacto": {
+                "telefono": "3009876543",
+                "email": "lacteoslavia@gmail.com"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Manzanas Verdes",
+        "categoria": "Frutas",
+        "precio": {
+            "cantidad": "1 unidad",
+            "valor": 2500
+        },
+        "proveedor": {
+            "nit": "13",
+            "nombre": "Frutas y Verduras El Campo",
+            "barrio": "barrrio bolivar",
+            "contacto": {
+                "telefono": "3156789123"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "arroz",
+        "categoria": "Granos",
+        "precio": 3000,
+        "stock": 100,
+        "proveedor": {
+            "nit": "14",
+            "nombre": "Granos del Sur",
+            "contacto": {
+                "telefono": "3176543210",
+                "direccion": "Calle 20 # 15-40"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "choco crisp",
+        "categoria": "Cereales",
+        "precio": {
+            "peso": "500g",
+            "valor": 12000
+        },
+        "iva": 50,
+        "proveedor": {
+            "nit": "15",
+            "nombre": "Cereales La Estrella",
+            "pais": "Peru",
+            "contacto": {
+                "telefono": "3198765432",
+                "email": "chocokrisp@gmail.com",
+                "direccion": {
+                    "calle": "Avenida 30 # 10-20",
+                    "ciudad": "Lima",
+                    "codigo_postal": "15001"
+                }
+            }
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Leche de Almendra",
+        "categoria": "Lácteos",
+        "precio": {
+            "volumen": "1L",
+            "valor": 8000
+        },
+        "iva": 200,
+        "proveedor": {
+            "nit": "16",
+            "nombre": "Lácteos Naturales S.A.S",
+            "municipio": "Medellín",
+            "contacto": {
+                "telefono": "3012345678",
+                "email": "LacteosN@gmail.com"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Cereal Integral",
+        "categoria": "Cereales",
+        "precio": 10000,
+        "iva": 150,
+        "proveedor": {
+            "nit": "17",
+            "nombre": "Cereales Saludables Ltda",
+            "pais": "Colombia",
+            "contacto": {
+                "telefono": "3187654321",
+                "direccion": "calle 12 # 5-12"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Pechuga de Pollo",
+        "categoria": "Carnes",
+        "precio": {
+            "peso": "1kg",
+            "valor": 25000
+        },
+        "proveedor": {
+            "nit": "18",
+            "nombre": "Pollos y Más S.A.S",
+            "municipio": "Barranquilla",
+            "contacto": "3001234567",
+            "direccion": "Calle 30 # 20-15"
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Bananas",
+        "categoria": "Frutas",
+        "precio": {
+            "cantidad": "1 unidad",
+            "valor": 1200
+        },
+        "proveedor": {
+            "nit": "19",
+            "nombre": "Frutas Tropicales Ltda",
+            "barrio": "El Prado",
+            "contacto": {
+                "telefono": "3167891234"
+            }
+        }
+    }
+]
