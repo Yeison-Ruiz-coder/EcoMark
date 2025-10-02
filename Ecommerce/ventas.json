@@ -1,0 +1,101 @@
+[
+  {
+    "id_venta": 1001,
+    "fecha": "2025-10-01",
+    "usuario_id": 1,
+    "productos": [
+      { "producto_id": 1, "cantidad": 1, "precio_unitario": 150000 },
+      { "producto_id": 2, "cantidad": 1, "precio_unitario": 85000 }
+    ],
+    "total": 235000
+  },
+  {
+    "id_venta": 1002,
+    "fecha": "2025-10-01",
+    "usuario_id": 2,
+    "productos": [
+      { "producto_id": 3, "cantidad": 2, "precio_unitario": 120000 }
+    ],
+    "total": 240000
+  },
+  {
+    "id_venta": 1003,
+    "fecha": "2025-10-02",
+    "usuario_id": 3,
+    "productos": [
+      { "producto_id": 4, "cantidad": 1, "precio_unitario": 520000 }
+    ],
+    "total": 520000
+  },
+  {
+    "id_venta": 1004,
+    "fecha": "2025-10-02",
+    "usuario_id": 4,
+    "productos": [
+      { "producto_id": 2, "cantidad": 2, "precio_unitario": 85000 },
+      { "producto_id": 5, "cantidad": 1, "precio_unitario": 430000 }
+    ],
+    "total": 600000
+  },
+  {
+    "id_venta": 1005,
+    "fecha": "2025-10-03",
+    "usuario_id": 5,
+    "productos": [
+      { "producto_id": 1, "cantidad": 1, "precio_unitario": 150000 }
+    ],
+    "total": 150000
+  },
+  {
+    "id_venta": 1006,
+    "fecha": "2025-10-03",
+    "usuario_id": 6,
+    "productos": [
+      { "producto_id": 3, "cantidad": 1, "precio_unitario": 120000 },
+      { "producto_id": 2, "cantidad": 1, "precio_unitario": 85000 }
+    ],
+    "total": 205000
+  },
+  {
+    "id_venta": 1007,
+    "fecha": "2025-10-04",
+    "usuario_id": 7,
+    "productos": [
+      { "producto_id": 5, "cantidad": 1, "precio_unitario": 430000 }
+    ],
+    "total": 430000
+  },
+  {
+    "id_venta": 1008,
+    "fecha": "2025-10-04",
+    "usuario_id": 8,
+    "productos": [
+      { "producto_id": 4,
+       "cantidad": 1,
+        "precio_unitario": 520000 },
+      { "producto_id": 3,
+       "cantidad": 1,
+        "precio_unitario": 120000 }
+    ],
+    "total": 640000
+  },
+  {
+    "id_venta": 1009,
+    "fecha": "2025-10-05",
+    "usuario_id": 9,
+    "productos": [
+      { "producto_id": 2, "cantidad": 1, "precio_unitario": 85000 }
+    ],
+    "total": 85000
+  },
+  {
+    "id_venta": 1010,
+    "fecha": "2025-10-05",
+    "usuario_id": 10,
+    "productos": [
+      { "producto_id": 1, "cantidad": 1, "precio_unitario": 150000 },
+      { "producto_id": 5, "cantidad": 1, "precio_unitario": 430000 }
+    ],
+    "total": 580000
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lucía Martínez",
+    "correo": "lucia.martinez@gmail.com",
+    "pais": "México",
+    "telefono":"321087123",
+    "preferencia": "productos orgánicos"
+  },
+  {
+    "id": 2,
+    "nombre": "Tomás Silva",
+    "correo": "tomas.silva@outlook.com",
+    "pais": "Argentina",
+    "telefono":"321087123",
+    "preferencia": "lácteos sin lactosa"
+  },
+  {
+    "id": 3,
+    "nombre": "Emily Johnson",
+    "correo": "emily.johnson@gmail.com",
+    "pais": "Estados Unidos",
+    "telefono":"327087123",
+    "preferencia": "productos veganos"
+  },
+  {
+    "id": 4,
+    "nombre": "Carlos Gómez",
+    "correo": "carlos.gomez@hotmail.com",
+    "pais": "Colombia",
+    "telefono":"32108233",
+    "preferencia": "snacks saludables"
+  },
+  {
+    "id": 5,
+    "nombre": "Yuki Tanaka",
+    "correo": "yuki.tanaka@docomo.jp",
+    "pais": "Japón",
+    "preferencia": "limpieza del hogar"
+  },
+  {
+    "id": 6,
+    "nombre": "Fatima El-Sayed",
+    "correo": "fatima.sayed@gmail.com",
+    "pais": "Egipto",
+    "preferencia": "productos sin gluten"
+  },
+  {
+    "id": 7,
+    "nombre": "Liam O'Connor",
+    "correo": "liam.oconnor@eir.ie",
+    "pais": "Irlanda",
+    "telefono":"3210871234",
+    "preferencia": "panadería artesanal"
+  },
+  {
+    "id": 8,
+    "nombre": "Sofia Rossi",
+    "correo": "sofia.rossi@libero.it",
+    "pais": "Italia",
+    "preferencia": "frutas y verduras frescas"
+  },
+  {
+    "id": 9,
+    "nombre": "Aisha Khan",
+    "correo": "aisha.khan@yahoo.com",
+    "pais": "Pakistán",
+    "preferencia": "productos de cuidado personal"
+  },
+  {
+    "id": 10,
+    "nombre": "Jean Dupont",
+    "correo": "jean.dupont@orange.fr",
+    "pais": "Francia",
+    "telefono":"3210876544",
+    "preferencia": "quesos y embutidos"
+  }
+]
